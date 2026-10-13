@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently @ Klaviyo working on Strategic Finance | Prev. Data Engineer @ Cortex
+Data Engineer @ Orion | Prev. Data Engineer @ Cortex
 
 A commit a day keeps the doctor away
 
